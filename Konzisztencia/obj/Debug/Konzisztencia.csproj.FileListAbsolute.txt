@@ -1,0 +1,9 @@
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\bin\Debug\Konzisztencia.exe.config
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\bin\Debug\Konzisztencia.exe
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\bin\Debug\Konzisztencia.pdb
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\obj\Debug\Konzisztencia.csprojAssemblyReference.cache
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\obj\Debug\Konzisztencia.Form1.resources
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\obj\Debug\Konzisztencia.Properties.Resources.resources
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\obj\Debug\Konzisztencia.csproj.GenerateResource.cache
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\obj\Debug\Konzisztencia.exe
+C:\Users\Burus Endre\source\repos\Konzisztencia\Konzisztencia\obj\Debug\Konzisztencia.pdb
